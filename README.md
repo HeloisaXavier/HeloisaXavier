@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=HeloisaXavier&color=006bed)
+//![](https://komarev.com/ghpvc/?username=HeloisaXavier&color=006bed)//
 
 <h1 align='center'>
     Olá! 👋 Meu nome é Heloisa Xavier.
