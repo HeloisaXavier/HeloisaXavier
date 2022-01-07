@@ -4,9 +4,9 @@
 
 <h3> &nbsp;Sobre mim: </h3>
 
-- 👽 &nbsp; Estou explorando o universo de TI através do desenvolvimento de software.
-- 🎓 &nbsp; Sou estudante de **Análise e Desenvolvimento de Sistemas**.
-- ☕ &nbsp; Estou aprendendo mais sobre **Java**.
+- 💜 &nbsp; Estou explorando o universo de TI através do desenvolvimento de software.
+- 💻 &nbsp; Sou estudante de **Sistemas para Internet**.
+- 🧠 &nbsp; Estou aprendendo mais sobre **Java**.
 
 <h3> 🚀 &nbsp;Minhas Skills </h3>
 
