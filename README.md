@@ -1,10 +1,11 @@
 <h1 align='center'>
-    Olá! 👋 Meu nome é Heloisa Xavier.
+    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Meu nome é Heloisa Xavier.
   </h1>
-
+  
+ 
 <h3> &nbsp;Sobre mim: </h3>
 
-- 👀 &nbsp; Estou explorando o universo de TI através do desenvolvimento de software.
+- 🤍 &nbsp; Estou explorando o universo de TI através do desenvolvimento de software.
 - 💻 &nbsp; Sou estudante de **Sistemas para Internet**.
 - 🧠 &nbsp; Estou aprendendo mais sobre **Java**.
 
